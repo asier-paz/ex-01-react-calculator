@@ -6,6 +6,13 @@ This is a React exercise. The terms of the exercise are the following:
 - Favorite operations can be seen at any time outside the calculator component
 - When a favorite operation is clicked, it should be set in the calculator so the user can check the result again
 
+# How to start the app
+Run the following commands
+```shell
+yarn
+yarn dev
+```
+
 # Exercise Result
 ![The result of the exercise](https://i.imgur.com/DxYqfqx.png)
 
